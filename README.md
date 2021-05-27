@@ -1,3 +1,25 @@
+# DevChat
+
+DevChat offers many IRC-style features, including persistent chat rooms organized by topic, private groups, and direct messaging.
+<br>
+It also offers facility of sharing emojis, pictures, pdfs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
