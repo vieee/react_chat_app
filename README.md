@@ -4,7 +4,11 @@ DevChat offers many IRC-style features, including persistent chat rooms organize
 <br>
 It also offers facility of sharing emojis, pictures, pdfs. 
 
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/one.png" width="100" />
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/two.png" width="100" /> 
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/three.png" width="100" />
+</p>
 
 
 
