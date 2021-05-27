@@ -5,23 +5,23 @@ DevChat offers many IRC-style features, including persistent chat rooms organize
 It also offers facility of sharing emojis, pictures, pdfs. 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/one.png" width="43%" />
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/two.png" width="43%" /> 
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/one.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/two.png" width="47%" /> 
 </p>
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/three.png" width="43%" />
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/four.png" width="43%" /> 
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/three.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/four.png" width="47%" /> 
 </p>
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/five.png" width="43%" />
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/six.png" width="43%" /> 
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/five.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/six.png" width="47%" /> 
 </p>
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/seven.png" width="43%" />
-  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/eight.png" width="43%" /> 
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/seven.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/react_chat_app/master/public/images/eight.png" width="47%" /> 
 </p>
 
 
